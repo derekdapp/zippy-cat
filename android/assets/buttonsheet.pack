@@ -1,0 +1,159 @@
+
+buttonsheet.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+underlay
+  rotate: false
+  xy: 1, 112
+  size: 120, 142
+  orig: 120, 142
+  offset: 0, 0
+  index: -1
+bg
+  rotate: false
+  xy: 123, 184
+  size: 136, 70
+  orig: 136, 70
+  offset: 0, 0
+  index: -1
+water
+  rotate: false
+  xy: 123, 112
+  size: 136, 70
+  orig: 136, 70
+  offset: 0, 0
+  index: -1
+overlay
+  rotate: false
+  xy: 1, 46
+  size: 136, 64
+  orig: 136, 64
+  offset: 0, 0
+  index: -1
+cloud
+  rotate: false
+  xy: 261, 190
+  size: 100, 64
+  orig: 100, 64
+  offset: 0, 0
+  index: -1
+title
+  rotate: false
+  xy: 1, 20
+  size: 136, 24
+  orig: 136, 24
+  offset: 0, 0
+  index: -1
+donate1
+  rotate: false
+  xy: 139, 78
+  size: 120, 32
+  orig: 120, 32
+  offset: 0, 0
+  index: -1
+donate2
+  rotate: false
+  xy: 363, 222
+  size: 120, 32
+  orig: 120, 32
+  offset: 0, 0
+  index: -1
+donate3
+  rotate: false
+  xy: 139, 44
+  size: 120, 32
+  orig: 120, 32
+  offset: 0, 0
+  index: -1
+bronze
+  rotate: false
+  xy: 261, 128
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+gold
+  rotate: false
+  xy: 261, 66
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+paper
+  rotate: false
+  xy: 323, 128
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+plat
+  rotate: false
+  xy: 323, 66
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+silver
+  rotate: false
+  xy: 385, 160
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+homebutton
+  rotate: false
+  xy: 385, 118
+  size: 56, 40
+  orig: 56, 40
+  offset: 0, 0
+  index: -1
+homebuttondown
+  rotate: false
+  xy: 385, 76
+  size: 56, 40
+  orig: 56, 40
+  offset: 0, 0
+  index: -1
+leader
+  rotate: false
+  xy: 139, 2
+  size: 56, 40
+  orig: 56, 40
+  offset: 0, 0
+  index: -1
+leaderdown
+  rotate: false
+  xy: 197, 2
+  size: 56, 40
+  orig: 56, 40
+  offset: 0, 0
+  index: -1
+playbutton
+  rotate: false
+  xy: 261, 24
+  size: 56, 40
+  orig: 56, 40
+  offset: 0, 0
+  index: -1
+playbuttondown
+  rotate: false
+  xy: 319, 24
+  size: 56, 40
+  orig: 56, 40
+  offset: 0, 0
+  index: -1
+donate
+  rotate: false
+  xy: 1, 1
+  size: 46, 17
+  orig: 46, 17
+  offset: 0, 0
+  index: -1
+skin
+  rotate: false
+  xy: 49, 1
+  size: 46, 17
+  orig: 46, 17
+  offset: 0, 0
+  index: -1
